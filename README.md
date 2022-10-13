@@ -1,14 +1,34 @@
-<div align="center">
-<img src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80" align="center" style="width: 100%" />
-</div>  
-<h1 align="center">Hi 👋, I'm Jeffrey Ofori Kwakye</h1>
-<h3 align="center">I am a Software Engineer.</h3>
-
-- 🌱 I’m currently learning **iOS Development**
-
-- 📫 How to reach me: **jeffkwakyebus@gmail.com**
+<h1 align="center">Hi 👋🏾 I'm Jeffrey Ofori Kwakye</h1>
+<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 
+I am an individual who is very passionate about Software Development.
+Learning to be an AWS Certified Cloud Practitioner. 
+Focusing on iOS development for now.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+**Connect with me:**
+
+<a href="https://twitter.com/soyyo_jeff">
+  
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/jeffrey-kwakye-1013a1238/">
+  <img align="left" alt="Rexford Machu LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
+</a>
+
+
+<br>
+<br>
+
+
+**Languages and Tools:**  
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+<img height="40" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter_I6JGxZE.png">
+
+
+
+
+

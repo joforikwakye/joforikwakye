@@ -3,7 +3,6 @@
 
 
 I am an individual who is very passionate about Software Development.
-Learning to be an AWS Certified Cloud Practitioner. 
 Focusing on iOS development for now.
 
 **Connect with me:**

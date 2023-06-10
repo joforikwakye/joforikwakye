@@ -13,7 +13,7 @@ Focusing on iOS development for now.
 </a>
 
 
-<a href="https://www.linkedin.com/in/jeffrey-kwakye-1013a1238/">
+<a href="https://www.linkedin.com/in/jeffrey-ofori-kwakye-1013a1238/">
   <img align="left" alt="Rexford Machu LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 

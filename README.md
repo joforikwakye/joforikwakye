@@ -11,7 +11,7 @@ Focusing on iOS development for now.
 
 <a href="https://twitter.com/_jofori">
   
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />
 </a>
 
 

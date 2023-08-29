@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋🏾 I'm Jeffrey Ofori Kwakye</h1>
+<h1 align="center">Hey, Welcome. My name's Jeffrey</h1>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 
-I am an individual who is very passionate about Software Development.
+I am Software Developer at Really Great Tech. Proficient in programming with Java, Python, and JavaScript, with hands-on experience utilizing frameworks such as Flutter.
+
+Available for internships and full-time positions.
 Focusing on iOS development for now.
 
 **Connect with me:**

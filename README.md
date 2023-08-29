@@ -5,7 +5,6 @@
 I am Software Developer at Really Great Tech. Proficient in programming with Java, Python, and JavaScript, with hands-on experience utilizing frameworks such as Flutter.
 
 Available for internships and full-time positions.
-Focusing on iOS development for now.
 
 **Connect with me:**
 

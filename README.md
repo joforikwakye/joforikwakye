@@ -9,7 +9,7 @@ Focusing on iOS development for now.
 
 **Connect with me:**
 
-<a href="https://twitter.com/soyyo_jeff">
+<a href="https://twitter.com/_jofori">
   
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>

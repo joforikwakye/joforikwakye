@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Welcome. My name's Jeffrey</h1>
+<h1 align="center">Hey, Welcome</h1>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 

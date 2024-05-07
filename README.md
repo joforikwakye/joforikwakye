@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
 
-I am an aspiring Software Developer. Proficient in programming with JavaScript, with hands-on experience utilizing frameworks such as Flutter.
+I am an aspiring Software Developer. 
 
 
 **Connect with me:**
